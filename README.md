@@ -1,5 +1,5 @@
 
-# 🌦️ Python Weather App
+ Python Weather App
 
 A Python-based Weather Application that fetches **real-time weather data** using a public Weather API.
 The app displays important weather details such as:
